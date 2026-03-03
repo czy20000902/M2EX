@@ -1,3 +1,0 @@
-{
-  "input": "{'question': 'Does this painting depict animals?', 'context': \"{'status': 'error', 'message': 'no such table: movements'}\"}"
-}
