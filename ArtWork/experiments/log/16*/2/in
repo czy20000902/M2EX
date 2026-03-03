@@ -1,3 +1,0 @@
-{
-  "input": "{'question': 'Does the image depict Fruit?', 'context': \"{'status': 'success', 'data': []}\"}"
-}
